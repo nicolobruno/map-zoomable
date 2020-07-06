@@ -1,0 +1,40 @@
+.container {
+  display: flex;
+  margin: auto;
+}
+
+.buttonContainerCities {
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  margin-bottom: 35px;
+}
+
+.button {
+  border-radius: 5px;
+  border-color: #607d8b;
+  font-size: 14px;
+  height: 25px;
+  width: 80px;
+  margin: 10px;
+}
+
+.buttonCity {
+  border: none;
+  font-size: 14px;
+  font-weight: 700;
+  color: #607c8a;
+  margin-right: 5px;
+  cursor: cursor;
+  pointer-events: auto;
+  width: 110px;
+}
+
+button:hover {
+  background: #b7c6ce;
+}
+button:focus {
+  background: #83949c;
+  color: #fff;
+  outline: none;
+}
