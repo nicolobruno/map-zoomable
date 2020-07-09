@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Map Zoomable
 
-Example use https://github.com/nicolobruno/generic-map with the Argentina map.
+This example use generic-map-component(https://github.com/nicolobruno/generic-map). The Argentina map is topojson fomat.
 
 **Props**
 
