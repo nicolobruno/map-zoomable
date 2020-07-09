@@ -19,6 +19,8 @@ Example use https://github.com/nicolobruno/generic-map with the Argentina map.
 
 ## Demo & Examples
 
+![alt text](https://user-images.githubusercontent.com/28309103/86993103-84b6d680-c179-11ea-83ce-b66b8d043fc4.gif)
+
 To build the examples locally, run:
 
 ```bash
